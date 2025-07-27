@@ -69,7 +69,8 @@ footer{
     color: rgb(1, 30, 251);
 }
 html {
-  scroll-padding-top: 100px; /* Adjust based on your header height */
+  scroll-padding-top: 100px;
+  scroll-behavior: smooth;
 }
 #Projects a{
     color: black;
